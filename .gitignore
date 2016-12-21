@@ -16,6 +16,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+# image and data
+*.jpg
+*.mat
 
 # =========================
 # Operating System Files
